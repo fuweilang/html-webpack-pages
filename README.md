@@ -18,7 +18,6 @@ npm run unit
 
 # run all tests
 npm test
-```
 
 PS:该框架支持多页面开发，只需在'src/page'下新建一个新页面的文件夹，里面包含2个基本文件
 1.index.html (此为该页面的HTML模板)
@@ -33,3 +32,6 @@ PS:该框架支持多页面开发，只需在'src/page'下新建一个新页面�
 完成。
 
 如果要考虑发布到cdn的绝对路径，可改'config/index.js'中的'config.build.assetsPublicPath'的值。
+
+```
+
